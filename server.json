@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/noaa-ncei",
+  "title": "Noaa Ncei",
+  "description": "NOAA NCEI MCP — the national climate archive, via the keyless Access services",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/noaa-ncei",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-noaa-ncei",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/noaa-ncei/mcp"
+    }
+  ]
+}
