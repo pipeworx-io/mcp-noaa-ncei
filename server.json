@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/noaa-ncei",
   "title": "Noaa Ncei",
   "description": "NOAA NCEI MCP — the national climate archive, via the keyless Access services",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/noaa-ncei",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-noaa-ncei",
