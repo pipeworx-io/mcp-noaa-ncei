@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-noaa-ncei",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "NOAA NCEI MCP — the national climate archive, via the keyless Access services",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "noaa-ncei",
     "gatewaySlug": "noaa-ncei",
-    "sourceHash": "v1-8a487e975aecab890dd5399b44ab6dcb60a814c14d84e7bd18d7677edd844ad3",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-4c3f70c306fe54774af05850f4c3b9b1ae1318723d2c1a8f23b5c3acce28f896",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
